@@ -16,4 +16,4 @@ class Company:
 
 if __name__ == '__main__':
     company = Company()
-    print(company.getCompanyCode("흥국"))
+    print(company.getCompanyCode("셀트리온"))
